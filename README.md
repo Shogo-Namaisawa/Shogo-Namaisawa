@@ -3,7 +3,7 @@
 - B.A. in Information and Communication, Meiji University (2026)
 - I have been working as a Data Scientist in a long-term internship since June 2025.
 - I have been working part-time at a fitness facility since 2022.
-- I enjoy working out and watching soccer.
+- I enjoy working out, watching soccer matches, and playing PC games.
 - How to reach me: Gmail (rawswamp460[at]gmail.com)
 
 --- 
@@ -14,7 +14,7 @@
 * 明治大学 情報コミュニケーション学部 情報コミュニケーション学科　卒業見込　（2026年）
 * 2025年6月より、データサイエンティストの長期インターンシップをしています
 * 2022年からフィットネス施設でアルバイトしています
-* 趣味；運動、サッカー観戦
+* 趣味；運動、サッカー観戦、PCゲーム
 * 連絡先: Gmail (rawswamp460[at]gmail.com)
 
 
