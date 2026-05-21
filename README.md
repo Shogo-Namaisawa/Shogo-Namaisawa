@@ -1,5 +1,5 @@
 ## Hi there 👋
-- M.S. Student in Data Science, Shiga University
+- Graduate Student at Shiga University | Data Science
 - B.A. in Information and Communication, Meiji University (2026)
 - I've been working as a Data Scientist in a long-term internship since June 2025.
 - I've been working part-time at a fitness facility since 2022.
